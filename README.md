@@ -185,7 +185,7 @@ If you use `The AI-Scientist` in your research, please cite it as follows:
 @article{lu2024aiscientist,
   title={The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery},
   author={Lu, Chris and Lu, Cong and Lange, Robert and Foerster, Jakob N and Clune, Jeff and Ha, David},
-  journal={arXiv preprint},
+  journal={arXiv preprint arXiv:2408.06292},
   year={2024}
 }
 ```
